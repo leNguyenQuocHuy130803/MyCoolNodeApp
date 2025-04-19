@@ -4,7 +4,8 @@
   "description": "node app",
   "main": "app.js",
   "scripts": {
-     "start": "node app.js"
+     "start": "node app.js",
+      "build": "echo 'No build step required for this simple app'"
   },
   "author": "lenguyenquochuy",
   "license": "ISC"
